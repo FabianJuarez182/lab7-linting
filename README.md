@@ -1,7 +1,7 @@
 # lab7-linting
 
 ### Heading
-- [ ] (40 puntos) [Criterio subjetivo] Según que porcentaje de la página principal de duck duck go implementaron en react. 10% sería solo el logo y el buscador y 100% sería si incluyeron la página completa hasta abajo, incluyendo el pequeño submenu en la esquina derecha.
+- [x] (40 puntos) [Criterio subjetivo] Según que porcentaje de la página principal de duck duck go implementaron en react. 10% sería solo el logo y el buscador y 100% sería si incluyeron la página completa hasta abajo, incluyendo el pequeño submenu en la esquina derecha.
 - [x] (20 puntos) Por implementar los lineamientos de airbnb en eslint.
 - [x] (30 puntos) Por implementar prettier junto con eslint (hintLinks to an external site.)
 - [x] (10 puntos) Por agregar una regla que prohiba los ; en todo su código (debe mostrar error si hay un ; en cualquier lugar) (hintLinks to an external site.)
