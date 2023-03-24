@@ -1,0 +1,30 @@
+.searchBar{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgDuck{
+    width: 50%;
+    height: 50%;
+}
+
+.divSearch{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.barr{
+    width: 90%;
+    height: 30px;
+}
+.lupa{
+    width: 10px;
+    height: 30px;
+}

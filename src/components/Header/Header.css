@@ -1,0 +1,40 @@
+.header-wrapper{
+    margin: 0;
+    justify-content: flex-end;
+    position: static;
+    display: flex;
+    align-items: center;
+    line-height: normal;
+    height: auto;
+}
+.header__button--menu{
+    order: 1;
+    position: static;
+    top: 0;
+    height: auto;
+    width: auto;
+    padding: 8px;
+    line-height: normal;
+    margin-right: -8px;
+    margin-left: 20px;
+    display: block;
+    float: right;
+    top: 1px;
+    z-index: 10;
+}
+.Megaphone-icon{
+    line-height: normal;
+    height: 25px;
+    width: 29.78px;
+    z-index: auto;
+}
+.popout-trig{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+    height: 25px;
+    width: 29.78px;
+    font-size: 100%;
+    vertical-align: baseline;
+}
